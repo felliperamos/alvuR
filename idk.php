@@ -4,7 +4,7 @@
 if (isset($argv[1])) {
 	echo $argv[1];
 } else {
-	echo "Por favor use um argumento";
+	echo "Por favor use um argumento aqui";
 }
 
 
